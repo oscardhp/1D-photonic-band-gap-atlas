@@ -1,5 +1,0 @@
-Por colocar:
-  [] README
-  [] Código base
-  [] Graficadores
-  [] Análisis
